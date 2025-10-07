@@ -48,12 +48,16 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
+<img width="1920" height="1200" alt="Screenshot 2025-10-07 235306" src="https://github.com/user-attachments/assets/e668f638-ab79-4543-9e6b-85dcb8957dc1" />
+
 
 Output Graph
+<img width="1920" height="1200" alt="Screenshot 2025-10-07 235615" src="https://github.com/user-attachments/assets/ead1675f-939f-4ed9-9e6f-26f850bbea70" />
 
 
 Tablular Column
 
+![WhatsApp Image 2025-10-07 at 23 57 35_5e8da725](https://github.com/user-attachments/assets/a56a8b3f-8641-4683-b725-6963efa23c06)
 
 Result
 
